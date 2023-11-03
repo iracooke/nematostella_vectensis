@@ -19,7 +19,7 @@ If you would simply like to run the R code and/or download final results proceed
 1. Checkout this repository 
 2. Download additional data not hosted on github due to size constraints
 ```bash
-wget 'https://cloudstor.aarnet.edu.au/plus/s/5MA4k6ATGH23CQE/download' -O data.tgz
+wget 'http://data.qld.edu.au/public/Q5999/iracooke/nematostella_vectensis/data.tgz' -O data.tgz
 tar -zxvf data.tgz 
 ```
 3. You should now be able to compile the Markdown files
